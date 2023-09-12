@@ -1,0 +1,13 @@
+git config
+git init
+git config --local user.name "anushka"
+git config --local user.email "anushkarajput2907@gmail.com"
+git config --list
+git add new.txt
+git status
+git commit -"make changes"
+git log
+git log --oneline
+git checkout 
+git branch
+git switch master
